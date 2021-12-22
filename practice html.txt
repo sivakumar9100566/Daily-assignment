@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Practice</title>
+    </head>
+    <body>
+        <img src="mouritech.jpg">
+        <div>
+            <p>Established in 2005, MOURI Tech has evolved into a trusted enterprise solution provider for many customers from various industries across the globe. Our talent pool consists of a highly skilled and experienced workforce delivering consistent service excellence to customers across industries globally.</p>
+        </div>
+        <div>
+            <h2>List with circle</h2>
+            <ul style="list-style-type:circle;">
+                <li>New York</li>
+                <li>Boston</li>
+                <li>chicago</li>
+            </ul>  
+
+        </div>
+        <div>
+            <a href="https://www.mouritech.com/about/organization/">About the company</a>
+            <a href="https://www.mouritech.com/contact-us/">Contact us</a>
+            <a href="https://in.bookmyshow.com/explore/upcoming-movies">Movies</a>
+        </div>
+        <div style="margin:10px;">
+        <img src="pushpa.jpg">
+        </div>
+        <a href="https://www.flyadeal.com/en?gclid=EAIaIQobChMIp6bmkND29AIVppNmAh1xcQ8wEAAYASAAEgJfC_D_BwE">Offers Link</a>
+        <p><b>Contact Number</b>:8008340572</p>
+    </body>
+</html>

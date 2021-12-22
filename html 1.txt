@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>practice</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap" rel="stylesheet">
+        <style>
+            .bacground img{
+                width:100%;
+            }
+            .change a:hover{
+                color:pink;
+            }
+            .fontstyles p .line1{
+                font-family: 'Vujahday Script', cursive;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="bacground">
+            <img src="mouritech.jpg">
+        </div>
+        <div class="change"><a href="https://mouritech.keka.com/#/me/attendance/logs">This is keka link</a></div>
+        <div class="fontstyles">
+            <p><span class="line1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque posuere enim vel semper.</span> <br>
+              <i> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</i><br>
+              <small> Morbi et nunc a neque vestibulum lobortis. Nullam bibendum scelerisque molestie.</small><br><br>
+               Duis nec bibendum mi, vel finibus metus. Vestibulum ullamcorper purus ac arcu convallis, 
+            at feugiat urna mollis. 
+            Pellentesque eget efficitur lorem. Vestibulum at erat nec mi cursus scelerisque vitae a purus. Integer tempor metus eu est tristique, vel egestas mauris efficitur. Ut rhoncus feugiat pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus imperdiet quam sapien, vel ornare turpis varius sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In imperdiet turpis et dictum lacinia. Pellentesque vitae dolor vel</p>
+        </div>
+
+        <div>
+            <h2>List with circle</h2>
+            <ul style="list-style-type:circle;">
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+            </ul>  
+            <ul style="list-style-type:disc;">
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+              </ul> 
+
+        </div>
+    </body>
+</html>
